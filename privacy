@@ -1,0 +1,63 @@
+Gizlilik Politikası — CV Atölyem
+
+Son güncelleme: 13 Kasım 2026
+
+CV Atölyem olarak kişisel verilerinizin güvenliğine önem veriyoruz. Bu politika; web sitemizi ve Android mobil uygulamamızı (“CV Atölyem”) kullanırken hangi verilerin toplandığını ve nasıl işlendiğini açıklar.
+
+1. Veri sorumlusu
+Hizmet: CV Atölyem — özgeçmiş hazırlama aracı (web ve mobil)
+İletişim: iletisim@cvatolyem.com
+
+2. Toplanan veriler
+
+2.1. Web sitesi
+
+Hesap bilgileri: Kayıt olursanız e-posta adresiniz ve şifreniz (şifre sunucuda hashlenmiş saklanır).
+CV içeriği: Formda girdiğiniz özgeçmiş bilgileri; giriş yaptıysanız bulutta, yapmadıysanız cihazınızda (IndexedDB) saklanır.
+Teknik veriler: IP adresi, tarayıcı türü, işlem logları (güvenlik ve hizmet iyileştirme için).
+Çerezler: Ayrıntılar için Çerez Politikası sayfasına bakın.
+2.2. Mobil uygulama (Android)
+
+CV içeriği: Ad, iletişim, deneyim, eğitim, yetenek, dil, fotoğraf vb. bilgileri siz girersiniz. Bu veriler cihazınızda yerel olarak saklanır; varsayılan olarak sunucularımıza CV içeriği gönderilmez.
+Fotoğraf: CV’nize fotoğraf eklemek için galeri erişimi isteyebiliriz. Fotoğraf yalnızca cihazınızda CV taslağınızla birlikte tutulur.
+İnternet erişimi: Reklam gösterimi (Google AdMob) için kullanılır.
+Reklam kimliği: Google Play Hizmetleri üzerinden reklam kimliği (AD_ID) kullanılabilir; kişiselleştirilmiş reklamlar için Google politikalarına tabidir.
+3. Verilerin kullanım amacı
+
+CV oluşturma, düzenleme, kaydetme ve PDF dışa aktarma
+Web’de hesap güvenliği, kimlik doğrulama ve senkronizasyon
+Hizmet kalitesini artırmak ve kötüye kullanımı önlemek
+Mobil uygulamada reklam göstererek ücretsiz hizmeti sürdürmek
+Yasal yükümlülükleri yerine getirmek
+4. Reklamlar
+
+4.1. Web — Google AdSense
+Sitemizde Google AdSense reklamları gösterilebilir. Google ve üçüncü taraf reklam ortakları çerez kullanabilir.
+
+Google Reklam Teknolojileri: https://policies.google.com/technologies/ads
+Google Reklam Ayarları: https://adssettings.google.com
+Reklam çerezleri yalnızca çerez banner’ında “Kabul et” seçeneğini onayladığınızda yüklenir.
+
+4.2. Mobil — Google AdMob
+Android uygulamamızda Google AdMob ile banner ve geçiş (interstitial) reklamları gösterilebilir. AdMob; cihaz bilgileri, IP adresi, reklam kimliği ve uygulama kullanımına ilişkin teknik verileri kendi gizlilik politikası kapsamında işleyebilir.
+
+Google Gizlilik Politikası: https://policies.google.com/privacy
+Reklam kişiselleştirmesini kapatma: https://support.google.com/ads/answer/2662922
+Uygulama içi CV verileriniz (özgeçmiş metni, fotoğraf vb.) reklam amaçlı tarafımızca üçüncü taraflara satılmaz veya paylaşılmaz.
+
+5. Veri paylaşımı
+Verilerinizi satmayız. Hizmet sağlayıcılar (barındırma, reklam) yalnızca hizmet sunumu için gerekli ölçüde veriye erişebilir. Yasal zorunluluk halinde yetkili makamlarla paylaşım yapılabilir.
+
+6. Saklama süresi ve silme
+
+Web: Hesap ve CV verileri hesabınız aktif olduğu sürece saklanır. Yerel tarayıcı verilerini tarayıcı ayarlarından silebilirsiniz.
+Mobil: CV taslakları cihazınızda tutulur. Uygulamayı kaldırmak veya uygulama verilerini silmek bu yerel kayıtları da siler.
+7. Çocukların gizliliği
+Hizmetimiz 13 yaş altındaki çocuklara yönelik değildir. Bilerek 13 yaş altından kişisel veri toplamayız.
+
+8. Haklarınız (KVKK)
+6698 sayılı Kişisel Verilerin Korunması Kanunu kapsamında verilerinize erişme, düzeltme, silme ve işlemeye itiraz etme haklarına sahipsiniz. Talepleriniz için iletisim@cvatolyem.com adresine yazabilirsiniz.
+
+9. Değişiklikler
+Bu politika güncellenebilir. Önemli değişiklikler bu sayfada yayınlanır. Kullanmaya devam etmeniz güncel politikayı kabul ettiğiniz anlamına gelir.
+
